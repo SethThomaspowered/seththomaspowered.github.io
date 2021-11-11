@@ -2,7 +2,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background: #7f7f7f;
     display: grid;
-    grid-template-rows: 10% 50% 10%;
+    grid-template-rows: 10% 80% 10%;
     grid-template-columns: 25% 50% 25%;
     min-height: 100vh;
 }
